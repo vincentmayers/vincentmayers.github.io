@@ -2,7 +2,7 @@
 |  **Name** | **Presentation Title** | **Link to presentation** | **Presentation Title 2** | **Link to presentation 2** | **Presentation Title 3** | **Link to your presentation** |
 | --- | --- | --- | --- | --- | --- | --- |
 |  Adarsh Shah | Advanced Kubernetes workshop | https://shahadarsh.github.io/docker-k8s-presentation |  |  |  |  |
-|  Alberto C. R√≠os | Kubernetes local development workflow distilled | https://speakerdeck.com/albertoimpl/kubernetes-local-development-workflow-distilled |  |  |  |  |
+|  Alberto C. Rios | Kubernetes local development workflow distilled | https://speakerdeck.com/albertoimpl/kubernetes-local-development-workflow-distilled |  |  |  |  |
 |  Alex Riviere | Dependency Injection in Vue.js | https://slides.com/fimion/devnexus-2020#/ |  |  |  |  |
 |  Ana Maria Mihalceanu | Afterlife Tales: Troubleshooting containerized applications | https://www.slideshare.net/AnaMariaMihalceanu1/troubleshooting-containerized-applications-228841786 |  |  |  |  |
 |  Andrew Malek | Developers: Why Care About the User? | https://www.slideshare.net/mobile/AndrewMalek2/developers-why-care-about-the-user-february-2020 |  |  |  |  |
@@ -76,5 +76,4 @@
 |  Todd Sharp | Ahead Of Time Data Access With Micronaut | https://drive.google.com/file/d/1RvdgcyM_Zt8oUDjapy4XKBH6p6Ee93-X/view?usp=drivesdk | Calculating Insulin With Automated Carb Counting Using AI, ML and Web Bluetooth | https://drive.google.com/file/d/1-31N500sH7KmroM9mYqeIiH69uUBA8NX/view?usp=drivesdk |  |  |
 |  Venkat Subramaniam | This Ain't Your Parents' Java | http://www.agiledeveloper.com/presentations/this_aint_your_parents_java.zip | Exploring Collectors | http://www.agiledeveloper.com/presentations/exploring_collectors.zip |  |  |
 |  Zachary Klein | Micronaut Launchpad | http://bit.ly/micronaut-launchpad-devnexus |  |  |  |  |
-Copy of Devnexus 2020 Presentation Links-143752-MTM.markdown
-Displaying Copy of Devnexus 2020 Presentation Links-143752-MTM.markdown.
+
